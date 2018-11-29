@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths>
+    <paths>
+        <files-path
+            name="files"
+            path="/" />
+        <databases-path
+            name="databases"
+            path="/" />
+        <external-files-path
+            name="ex-files-download" path="Download"/>
+        <external-cache-path
+            name="external-cache-path-download"
+            path="Download"/>
+        <external-path
+            name="external-path-download"
+            path="Download"/>
+        <cache-path
+            name="cache-path-download"
+            path="Download"/>
+
+
+    </paths>
+</paths>
